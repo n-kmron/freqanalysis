@@ -58,7 +58,7 @@ correctly</p>
 
 ## Authors
 * Cameron Noupoue
-* Ayoub Moufidi
+* [Ayoub Moufidi](https://github.com/piracope)
 
 ## Credits
 
