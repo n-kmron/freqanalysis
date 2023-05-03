@@ -54,8 +54,9 @@ want</p>
 
 ## Execution
 <p>The execution of the program will notice that the program was executed 
-correctly</p> ## Authors
+correctly</p> 
 
+## Authors
 * Cameron Noupoue
 * Ayoub Moufidi
 
